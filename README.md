@@ -1,6 +1,6 @@
 ### Hi there
 
-- 👋 Hello World, my name is Adithya Chinnakkonda, a robotics engineer in Germany
+- 👋 Hello World, my name is Adithya Chinnakkonda, a Robotics Engineer in Germany
 - 🔭 I’m currently a Robotics Application Engineer at [ABICOR BINZEL](https://www.binzel-abicor.com) in Metzingen
 - 🛠️ I build [Kural](https://github.com/adithyakumarcr/kural), a code editor with AI built in (Claude, Gemini, ChatGPT or your own model)
 - 🎓 Master’s in Mechatronics from Hamburg University of Technology (TUHH); thesis: Visuomotor Control of Legged Robots
